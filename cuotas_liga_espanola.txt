@@ -1,0 +1,1232 @@
+-----------------------------------------------
+ID: 9f32310b031429e2b85a0804c0081414
+Inicio: 2024-04-26T19:00:00Z
+Equipo Local: Real Sociedad
+Equipo Visitante: Real Madrid
+Cuotas:
+- 888sport
+  Real Madrid - 2.75
+  Real Sociedad - 2.62
+  Draw - 3.2
+- Betfair
+  Real Madrid - 2.78
+  Real Sociedad - 2.84
+  Draw - 3.4
+- Coolbet
+  Real Madrid - 2.75
+  Real Sociedad - 2.72
+  Draw - 3.35
+- William Hill
+  Real Madrid - 2.7
+  Real Sociedad - 2.5
+  Draw - 3.4
+- Suprabets
+  Real Madrid - 2.78
+  Real Sociedad - 2.77
+  Draw - 3.34
+- Betclic
+  Real Madrid - 2.64
+  Real Sociedad - 2.58
+  Draw - 3.18
+- Betsson
+  Real Madrid - 2.75
+  Real Sociedad - 2.7
+  Draw - 3.3
+- MyBookie.ag
+  Real Madrid - 2.69
+  Real Sociedad - 2.63
+  Draw - 3.26
+- Matchbook
+  Real Madrid - 2.78
+  Real Sociedad - 2.84
+  Draw - 3.4
+- Unibet
+  Real Madrid - 2.65
+  Real Sociedad - 2.85
+  Draw - 3.35
+- LiveScore Bet (EU)
+  Real Madrid - 2.43
+  Real Sociedad - 2.6
+  Draw - 3.05
+- Pinnacle
+  Real Madrid - 2.73
+  Real Sociedad - 2.76
+  Draw - 3.29
+- Everygame
+  Real Madrid - 2.7
+  Real Sociedad - 2.7
+  Draw - 3.25
+- BetOnline.ag
+  Real Madrid - 2.72
+  Real Sociedad - 2.75
+  Draw - 3.3
+- 1xBet
+  Real Madrid - 2.78
+  Real Sociedad - 2.72
+  Draw - 3.47
+- Marathon Bet
+  Real Madrid - 2.71
+  Real Sociedad - 2.65
+  Draw - 3.38
+
+-----------------------------------------------
+ID: ce10fe42b1a754902c2016fabb4f44b7
+Inicio: 2024-04-27T12:00:00Z
+Equipo Local: Las Palmas
+Equipo Visitante: Girona
+Cuotas:
+- William Hill
+  Girona - 1.75
+  Las Palmas - 4.2
+  Draw - 4.0
+- 888sport
+  Girona - 1.75
+  Las Palmas - 4.33
+  Draw - 3.8
+- Betclic
+  Girona - 1.76
+  Las Palmas - 4.1
+  Draw - 3.73
+- Betfair
+  Girona - 1.84
+  Las Palmas - 4.5
+  Draw - 3.95
+- MyBookie.ag
+  Girona - 1.79
+  Las Palmas - 4.2
+  Draw - 3.85
+- Pinnacle
+  Girona - 1.81
+  Las Palmas - 4.34
+  Draw - 3.93
+- Matchbook
+  Girona - 1.84
+  Las Palmas - 4.6
+  Draw - 4.1
+- Unibet
+  Girona - 1.79
+  Las Palmas - 4.6
+  Draw - 3.95
+- LiveScore Bet (EU)
+  Girona - 1.63
+  Las Palmas - 4.25
+  Draw - 3.6
+- Coolbet
+  Girona - 1.85
+  Las Palmas - 4.25
+  Draw - 3.95
+- BetOnline.ag
+  Girona - 1.83
+  Las Palmas - 4.3
+  Draw - 3.89
+- 1xBet
+  Girona - 1.86
+  Las Palmas - 4.32
+  Draw - 4.07
+- Marathon Bet
+  Girona - 1.81
+  Las Palmas - 4.2
+  Draw - 3.96
+- Betsson
+  Girona - 1.8
+  Las Palmas - 4.33
+  Draw - 4.0
+- Suprabets
+  Girona - 1.83
+  Las Palmas - 4.4
+  Draw - 4.0
+- Everygame
+  Girona - 1.75
+  Las Palmas - 4.2
+  Draw - 3.75
+
+-----------------------------------------------
+ID: c8cd89571f65f686b8c6920590b57313
+Inicio: 2024-04-27T14:15:00Z
+Equipo Local: Almería
+Equipo Visitante: Getafe
+Cuotas:
+- Coolbet
+  Almería - 2.75
+  Getafe - 2.72
+  Draw - 3.35
+- 888sport
+  Almería - 2.75
+  Getafe - 2.62
+  Draw - 3.25
+- Betfair
+  Almería - 2.78
+  Getafe - 2.8
+  Draw - 3.45
+- William Hill
+  Almería - 2.7
+  Getafe - 2.6
+  Draw - 3.25
+- Betclic
+  Almería - 2.58
+  Getafe - 2.6
+  Draw - 3.25
+- MyBookie.ag
+  Almería - 2.63
+  Getafe - 2.65
+  Draw - 3.3
+- Suprabets
+  Almería - 2.76
+  Getafe - 2.74
+  Draw - 3.41
+- 1xBet
+  Almería - 2.85
+  Getafe - 2.72
+  Draw - 3.37
+- Unibet
+  Almería - 2.75
+  Getafe - 2.8
+  Draw - 3.3
+- LiveScore Bet (EU)
+  Almería - 2.5
+  Getafe - 2.55
+  Draw - 3.0
+- Pinnacle
+  Almería - 2.69
+  Getafe - 2.67
+  Draw - 3.31
+- Matchbook
+  Almería - 2.78
+  Getafe - 2.8
+  Draw - 3.45
+- Everygame
+  Almería - 2.65
+  Getafe - 2.6
+  Draw - 3.25
+- BetOnline.ag
+  Almería - 2.75
+  Getafe - 2.69
+  Draw - 3.34
+- Marathon Bet
+  Almería - 2.77
+  Getafe - 2.65
+  Draw - 3.28
+- Betsson
+  Almería - 2.75
+  Getafe - 2.65
+  Draw - 3.4
+
+-----------------------------------------------
+ID: 56c2abf5cf84ced4d65ac50542c7ab88
+Inicio: 2024-04-27T16:30:00Z
+Equipo Local: Alavés
+Equipo Visitante: Celta Vigo
+Cuotas:
+- Betclic
+  Alavés - 2.54
+  Celta Vigo - 2.82
+  Draw - 3.02
+- Marathon Bet
+  Alavés - 2.67
+  Celta Vigo - 2.88
+  Draw - 3.12
+- Pinnacle
+  Alavés - 2.69
+  Celta Vigo - 2.96
+  Draw - 3.1
+- Betsson
+  Alavés - 2.6
+  Celta Vigo - 2.95
+  Draw - 3.2
+- William Hill
+  Alavés - 2.6
+  Celta Vigo - 2.8
+  Draw - 3.1
+- Unibet
+  Alavés - 2.63
+  Celta Vigo - 3.0
+  Draw - 3.2
+- LiveScore Bet (EU)
+  Alavés - 2.4
+  Celta Vigo - 2.75
+  Draw - 2.9
+- Betfair
+  Alavés - 2.68
+  Celta Vigo - 3.0
+  Draw - 3.2
+- Everygame
+  Alavés - 2.6
+  Celta Vigo - 2.85
+  Draw - 3.0
+- BetOnline.ag
+  Alavés - 2.6
+  Celta Vigo - 3.0
+  Draw - 3.15
+
+-----------------------------------------------
+ID: 0cd2862537ac8026060aca5a9cd66eda
+Inicio: 2024-04-27T19:00:00Z
+Equipo Local: Atlético Madrid
+Equipo Visitante: Athletic Bilbao
+Cuotas:
+- 888sport
+  Athletic Bilbao - 3.8
+  Atlético Madrid - 2.0
+  Draw - 3.4
+- 1xBet
+  Athletic Bilbao - 3.96
+  Atlético Madrid - 2.01
+  Draw - 3.75
+- Suprabets
+  Athletic Bilbao - 4.1
+  Atlético Madrid - 2.0
+  Draw - 3.59
+- Marathon Bet
+  Athletic Bilbao - 3.86
+  Atlético Madrid - 1.96
+  Draw - 3.65
+- Pinnacle
+  Athletic Bilbao - 4.02
+  Atlético Madrid - 1.98
+  Draw - 3.55
+- Betsson
+  Athletic Bilbao - 3.75
+  Atlético Madrid - 2.0
+  Draw - 3.6
+- William Hill
+  Athletic Bilbao - 3.75
+  Atlético Madrid - 1.91
+  Draw - 3.7
+- Betclic
+  Athletic Bilbao - 3.78
+  Atlético Madrid - 1.91
+  Draw - 3.42
+- Unibet
+  Athletic Bilbao - 4.1
+  Atlético Madrid - 1.96
+  Draw - 3.65
+- LiveScore Bet (EU)
+  Athletic Bilbao - 3.75
+  Atlético Madrid - 1.8
+  Draw - 3.35
+- Betfair
+  Athletic Bilbao - 4.1
+  Atlético Madrid - 2.02
+  Draw - 3.65
+- MyBookie.ag
+  Athletic Bilbao - 3.85
+  Atlético Madrid - 1.94
+  Draw - 3.5
+- Coolbet
+  Athletic Bilbao - 4.1
+  Atlético Madrid - 1.97
+  Draw - 3.6
+- Matchbook
+  Athletic Bilbao - 4.1
+  Atlético Madrid - 2.02
+  Draw - 3.65
+- Everygame
+  Athletic Bilbao - 3.9
+  Atlético Madrid - 1.91
+  Draw - 3.4
+- BetOnline.ag
+  Athletic Bilbao - 4.02
+  Atlético Madrid - 1.96
+  Draw - 3.62
+
+-----------------------------------------------
+ID: 89ec514f37cd50786d6f94b54ca2e16d
+Inicio: 2024-04-28T12:00:00Z
+Equipo Local: Cádiz CF
+Equipo Visitante: Mallorca
+Cuotas:
+- MyBookie.ag
+  Cádiz CF - 2.55
+  Mallorca - 3.16
+  Draw - 2.84
+- 888sport
+  Cádiz CF - 2.5
+  Mallorca - 3.2
+  Draw - 2.88
+- Betclic
+  Cádiz CF - 2.51
+  Mallorca - 3.1
+  Draw - 2.79
+- 1xBet
+  Cádiz CF - 2.67
+  Mallorca - 3.31
+  Draw - 2.95
+- Suprabets
+  Cádiz CF - 2.7
+  Mallorca - 3.31
+  Draw - 2.87
+- Marathon Bet
+  Cádiz CF - 2.6
+  Mallorca - 3.22
+  Draw - 2.88
+- Pinnacle
+  Cádiz CF - 2.69
+  Mallorca - 3.23
+  Draw - 2.84
+- Betsson
+  Cádiz CF - 2.6
+  Mallorca - 3.2
+  Draw - 2.95
+- William Hill
+  Cádiz CF - 2.5
+  Mallorca - 3.2
+  Draw - 2.88
+- Unibet
+  Cádiz CF - 2.7
+  Mallorca - 3.1
+  Draw - 2.95
+- LiveScore Bet (EU)
+  Cádiz CF - 2.48
+  Mallorca - 2.88
+  Draw - 2.7
+- Betfair
+  Cádiz CF - 2.74
+  Mallorca - 3.25
+  Draw - 3.0
+- Coolbet
+  Cádiz CF - 2.55
+  Mallorca - 3.35
+  Draw - 2.95
+- Everygame
+  Cádiz CF - 2.6
+  Mallorca - 3.15
+  Draw - 2.75
+- Matchbook
+  Cádiz CF - 2.74
+  Mallorca - 3.25
+  Draw - 3.0
+- BetOnline.ag
+  Cádiz CF - 2.65
+  Mallorca - 3.28
+  Draw - 2.83
+
+-----------------------------------------------
+ID: 9916c096f0a8075f3d95a7fb9f4989a6
+Inicio: 2024-04-28T14:15:00Z
+Equipo Local: Granada CF
+Equipo Visitante: CA Osasuna
+Cuotas:
+- MyBookie.ag
+  CA Osasuna - 2.93
+  Granada CF - 2.54
+  Draw - 3.08
+- 888sport
+  CA Osasuna - 2.88
+  Granada CF - 2.6
+  Draw - 3.0
+- Betclic
+  CA Osasuna - 2.87
+  Granada CF - 2.5
+  Draw - 3.02
+- 1xBet
+  CA Osasuna - 2.95
+  Granada CF - 2.7
+  Draw - 3.27
+- Suprabets
+  CA Osasuna - 3.0
+  Granada CF - 2.67
+  Draw - 3.21
+- Marathon Bet
+  CA Osasuna - 2.88
+  Granada CF - 2.63
+  Draw - 3.18
+- Pinnacle
+  CA Osasuna - 2.97
+  Granada CF - 2.64
+  Draw - 3.16
+- Betsson
+  CA Osasuna - 2.95
+  Granada CF - 2.6
+  Draw - 3.2
+- William Hill
+  CA Osasuna - 2.8
+  Granada CF - 2.6
+  Draw - 3.2
+- Unibet
+  CA Osasuna - 2.95
+  Granada CF - 2.65
+  Draw - 3.2
+- LiveScore Bet (EU)
+  CA Osasuna - 2.7
+  Granada CF - 2.43
+  Draw - 2.95
+- Betfair
+  CA Osasuna - 3.1
+  Granada CF - 2.68
+  Draw - 3.2
+- Coolbet
+  CA Osasuna - 3.05
+  Granada CF - 2.57
+  Draw - 3.2
+- Everygame
+  CA Osasuna - 2.85
+  Granada CF - 2.55
+  Draw - 3.05
+- Matchbook
+  CA Osasuna - 3.1
+  Granada CF - 2.68
+  Draw - 3.2
+- BetOnline.ag
+  CA Osasuna - 2.93
+  Granada CF - 2.55
+  Draw - 3.31
+
+-----------------------------------------------
+ID: 6d393ee6687dbf5040f308f0c4b82dd5
+Inicio: 2024-04-28T16:30:00Z
+Equipo Local: Villarreal
+Equipo Visitante: Rayo Vallecano
+Cuotas:
+- 888sport
+  Rayo Vallecano - 4.5
+  Villarreal - 1.75
+  Draw - 3.75
+- 1xBet
+  Rayo Vallecano - 4.67
+  Villarreal - 1.81
+  Draw - 4.03
+- MyBookie.ag
+  Rayo Vallecano - 4.6
+  Villarreal - 1.74
+  Draw - 3.8
+- Betclic
+  Rayo Vallecano - 4.43
+  Villarreal - 1.71
+  Draw - 3.7
+- Suprabets
+  Rayo Vallecano - 4.8
+  Villarreal - 1.77
+  Draw - 4.0
+- Marathon Bet
+  Rayo Vallecano - 4.55
+  Villarreal - 1.76
+  Draw - 3.92
+- Pinnacle
+  Rayo Vallecano - 4.72
+  Villarreal - 1.75
+  Draw - 3.94
+- Betsson
+  Rayo Vallecano - 4.5
+  Villarreal - 1.75
+  Draw - 4.0
+- William Hill
+  Rayo Vallecano - 4.4
+  Villarreal - 1.73
+  Draw - 3.9
+- LiveScore Bet (EU)
+  Rayo Vallecano - 4.4
+  Villarreal - 1.61
+  Draw - 3.6
+- Unibet
+  Rayo Vallecano - 4.75
+  Villarreal - 1.77
+  Draw - 3.95
+- Betfair
+  Rayo Vallecano - 5.0
+  Villarreal - 1.77
+  Draw - 4.1
+- Coolbet
+  Rayo Vallecano - 4.8
+  Villarreal - 1.76
+  Draw - 3.95
+- Everygame
+  Rayo Vallecano - 4.5
+  Villarreal - 1.7
+  Draw - 3.75
+- Matchbook
+  Rayo Vallecano - 5.0
+  Villarreal - 1.77
+  Draw - 4.1
+- BetOnline.ag
+  Rayo Vallecano - 4.8
+  Villarreal - 1.74
+  Draw - 3.95
+
+-----------------------------------------------
+ID: cc379a59603aaa74aabcfb380f307522
+Inicio: 2024-04-28T19:00:00Z
+Equipo Local: Real Betis
+Equipo Visitante: Sevilla
+Cuotas:
+- 888sport
+  Real Betis - 2.05
+  Sevilla - 3.6
+  Draw - 3.4
+- Betclic
+  Real Betis - 2.01
+  Sevilla - 3.6
+  Draw - 3.3
+- 1xBet
+  Real Betis - 2.14
+  Sevilla - 3.8
+  Draw - 3.52
+- MyBookie.ag
+  Real Betis - 2.04
+  Sevilla - 3.65
+  Draw - 3.36
+- Suprabets
+  Real Betis - 2.12
+  Sevilla - 3.87
+  Draw - 3.45
+- Marathon Bet
+  Real Betis - 2.08
+  Sevilla - 3.7
+  Draw - 3.42
+- Pinnacle
+  Real Betis - 2.08
+  Sevilla - 3.85
+  Draw - 3.41
+- Betsson
+  Real Betis - 2.15
+  Sevilla - 3.6
+  Draw - 3.4
+- William Hill
+  Real Betis - 2.05
+  Sevilla - 3.6
+  Draw - 3.4
+- LiveScore Bet (EU)
+  Real Betis - 1.92
+  Sevilla - 3.45
+  Draw - 3.15
+- Unibet
+  Real Betis - 2.1
+  Sevilla - 3.75
+  Draw - 3.45
+- Betfair
+  Real Betis - 2.12
+  Sevilla - 4.0
+  Draw - 3.45
+- Coolbet
+  Real Betis - 2.2
+  Sevilla - 3.45
+  Draw - 3.5
+- Everygame
+  Real Betis - 2.05
+  Sevilla - 3.65
+  Draw - 3.3
+- Matchbook
+  Real Betis - 2.12
+  Sevilla - 4.0
+  Draw - 3.45
+- BetOnline.ag
+  Real Betis - 2.14
+  Sevilla - 3.59
+  Draw - 3.46
+
+-----------------------------------------------
+ID: b2c7e5d5f7213812086ede18d7ed0db2
+Inicio: 2024-04-29T19:00:00Z
+Equipo Local: Barcelona
+Equipo Visitante: Valencia
+Cuotas:
+- MyBookie.ag
+  Barcelona - 1.35
+  Valencia - 8.1
+  Draw - 5.1
+- Betsson
+  Barcelona - 1.38
+  Valencia - 9.0
+  Draw - 5.0
+- 888sport
+  Barcelona - 1.36
+  Valencia - 8.5
+  Draw - 5.0
+- Betclic
+  Barcelona - 1.34
+  Valencia - 7.8
+  Draw - 4.9
+- Betfair
+  Barcelona - 1.38
+  Valencia - 9.4
+  Draw - 5.4
+- William Hill
+  Barcelona - 1.35
+  Valencia - 8.0
+  Draw - 5.0
+- Suprabets
+  Barcelona - 1.38
+  Valencia - 8.5
+  Draw - 5.7
+- Pinnacle
+  Barcelona - 1.36
+  Valencia - 8.18
+  Draw - 5.49
+- Coolbet
+  Barcelona - 1.41
+  Valencia - 7.3
+  Draw - 5.45
+- Everygame
+  Barcelona - 1.33
+  Valencia - 7.5
+  Draw - 5.25
+- BetOnline.ag
+  Barcelona - 1.36
+  Valencia - 8.75
+  Draw - 5.33
+- 1xBet
+  Barcelona - 1.42
+  Valencia - 8.4
+  Draw - 5.23
+- Marathon Bet
+  Barcelona - 1.38
+  Valencia - 8.2
+  Draw - 5.1
+- Unibet
+  Barcelona - 1.38
+  Valencia - 9.0
+  Draw - 5.3
+- LiveScore Bet (EU)
+  Barcelona - 1.25
+  Valencia - 8.0
+  Draw - 4.9
+- Matchbook
+  Barcelona - 1.36
+  Valencia - 9.0
+  Draw - 5.4
+
+-----------------------------------------------
+ID: 2f2e80dc42c1166148f3b71f3e2eda56
+Inicio: 2024-05-03T19:00:00Z
+Equipo Local: Getafe
+Equipo Visitante: Athletic Bilbao
+Cuotas:
+- 1xBet
+  Athletic Bilbao - 2.3
+  Getafe - 3.62
+  Draw - 3.29
+- 888sport
+  Athletic Bilbao - 2.25
+  Getafe - 3.4
+  Draw - 3.2
+- Pinnacle
+  Athletic Bilbao - 2.21
+  Getafe - 3.51
+  Draw - 3.13
+- Marathon Bet
+  Athletic Bilbao - 2.24
+  Getafe - 3.52
+  Draw - 3.2
+- Betclic
+  Athletic Bilbao - 2.17
+  Getafe - 3.37
+  Draw - 3.1
+- MyBookie.ag
+  Athletic Bilbao - 2.17
+  Getafe - 3.38
+  Draw - 3.1
+- William Hill
+  Athletic Bilbao - 2.2
+  Getafe - 3.4
+  Draw - 3.2
+- Betsson
+  Athletic Bilbao - 2.25
+  Getafe - 3.5
+  Draw - 3.25
+- Betfair
+  Athletic Bilbao - 2.2
+  Getafe - 3.55
+  Draw - 3.1
+- Unibet
+  Athletic Bilbao - 2.25
+  Getafe - 3.5
+  Draw - 3.25
+- LiveScore Bet (EU)
+  Athletic Bilbao - 2.08
+  Getafe - 3.25
+  Draw - 3.0
+- Coolbet
+  Athletic Bilbao - 2.35
+  Getafe - 3.25
+  Draw - 3.15
+
+-----------------------------------------------
+ID: 60574065ceefb23a78f455db6969cd8f
+Inicio: 2024-05-04T12:00:00Z
+Equipo Local: Real Sociedad
+Equipo Visitante: Las Palmas
+Cuotas:
+- Pinnacle
+  Las Palmas - 8.06
+  Real Sociedad - 1.38
+  Draw - 4.64
+- 888sport
+  Las Palmas - 9.0
+  Real Sociedad - 1.36
+  Draw - 4.5
+- MyBookie.ag
+  Las Palmas - 7.9
+  Real Sociedad - 1.38
+  Draw - 4.4
+- 1xBet
+  Las Palmas - 8.8
+  Real Sociedad - 1.44
+  Draw - 4.83
+- Betclic
+  Las Palmas - 7.85
+  Real Sociedad - 1.38
+  Draw - 4.4
+- Marathon Bet
+  Las Palmas - 8.6
+  Real Sociedad - 1.4
+  Draw - 4.7
+- Betsson
+  Las Palmas - 8.5
+  Real Sociedad - 1.4
+  Draw - 4.75
+- William Hill
+  Las Palmas - 8.5
+  Real Sociedad - 1.36
+  Draw - 4.6
+- Betfair
+  Las Palmas - 8.0
+  Real Sociedad - 1.4
+  Draw - 4.6
+- Unibet
+  Las Palmas - 9.0
+  Real Sociedad - 1.38
+  Draw - 5.0
+- LiveScore Bet (EU)
+  Las Palmas - 8.5
+  Real Sociedad - 1.27
+  Draw - 4.6
+- Coolbet
+  Las Palmas - 7.5
+  Real Sociedad - 1.44
+  Draw - 4.5
+
+-----------------------------------------------
+ID: 8c5613140a4514e971a7d487fb53e855
+Inicio: 2024-05-04T14:15:00Z
+Equipo Local: Real Madrid
+Equipo Visitante: Cádiz CF
+Cuotas:
+- 1xBet
+  Cádiz CF - 10.6
+  Real Madrid - 1.33
+  Draw - 5.89
+- 888sport
+  Cádiz CF - 11.0
+  Real Madrid - 1.29
+  Draw - 5.5
+- Pinnacle
+  Cádiz CF - 8.89
+  Real Madrid - 1.28
+  Draw - 5.93
+- Betclic
+  Cádiz CF - 9.05
+  Real Madrid - 1.28
+  Draw - 5.3
+- Marathon Bet
+  Cádiz CF - 10.25
+  Real Madrid - 1.3
+  Draw - 5.65
+- Betsson
+  Cádiz CF - 12.0
+  Real Madrid - 1.28
+  Draw - 5.5
+- MyBookie.ag
+  Cádiz CF - 9.0
+  Real Madrid - 1.28
+  Draw - 5.3
+- William Hill
+  Cádiz CF - 10.0
+  Real Madrid - 1.29
+  Draw - 5.5
+- Unibet
+  Cádiz CF - 9.5
+  Real Madrid - 1.3
+  Draw - 6.1
+- LiveScore Bet (EU)
+  Cádiz CF - 9.0
+  Real Madrid - 1.2
+  Draw - 5.6
+- Coolbet
+  Cádiz CF - 8.55
+  Real Madrid - 1.32
+  Draw - 5.7
+
+-----------------------------------------------
+ID: 11bde34c58b70249d1ac5f19122634a2
+Inicio: 2024-05-04T16:30:00Z
+Equipo Local: Girona
+Equipo Visitante: Barcelona
+Cuotas:
+- 888sport
+  Barcelona - 2.25
+  Girona - 2.88
+  Draw - 3.75
+- 1xBet
+  Barcelona - 2.3
+  Girona - 3.05
+  Draw - 3.94
+- Pinnacle
+  Barcelona - 2.29
+  Girona - 2.84
+  Draw - 3.75
+- Betclic
+  Barcelona - 2.22
+  Girona - 2.88
+  Draw - 3.53
+- Marathon Bet
+  Barcelona - 2.24
+  Girona - 2.97
+  Draw - 3.84
+- Betsson
+  Barcelona - 2.3
+  Girona - 2.95
+  Draw - 3.75
+- MyBookie.ag
+  Barcelona - 2.22
+  Girona - 2.88
+  Draw - 3.55
+- William Hill
+  Barcelona - 2.2
+  Girona - 2.88
+  Draw - 3.9
+- Betfair
+  Barcelona - 2.28
+  Girona - 2.92
+  Draw - 3.75
+- Unibet
+  Barcelona - 2.38
+  Girona - 2.85
+  Draw - 3.8
+- LiveScore Bet (EU)
+  Barcelona - 2.2
+  Girona - 2.6
+  Draw - 3.5
+- Coolbet
+  Barcelona - 2.4
+  Girona - 2.75
+  Draw - 3.75
+
+-----------------------------------------------
+ID: 7fd74413159bfe9ee2463dbc771160b7
+Inicio: 2024-05-04T19:00:00Z
+Equipo Local: Mallorca
+Equipo Visitante: Atlético Madrid
+Cuotas:
+- Pinnacle
+  Atlético Madrid - 2.11
+  Mallorca - 3.72
+  Draw - 3.19
+- 888sport
+  Atlético Madrid - 2.15
+  Mallorca - 3.6
+  Draw - 3.2
+- 1xBet
+  Atlético Madrid - 2.19
+  Mallorca - 3.86
+  Draw - 3.33
+- Marathon Bet
+  Atlético Madrid - 2.13
+  Mallorca - 3.76
+  Draw - 3.25
+- Betsson
+  Atlético Madrid - 2.15
+  Mallorca - 3.75
+  Draw - 3.3
+- MyBookie.ag
+  Atlético Madrid - 2.08
+  Mallorca - 3.55
+  Draw - 3.14
+- Betclic
+  Atlético Madrid - 2.08
+  Mallorca - 3.57
+  Draw - 3.15
+- Suprabets
+  Atlético Madrid - 2.17
+  Mallorca - 3.87
+  Draw - 3.31
+- William Hill
+  Atlético Madrid - 2.1
+  Mallorca - 3.7
+  Draw - 3.25
+- Betfair
+  Atlético Madrid - 2.1
+  Mallorca - 3.75
+  Draw - 3.15
+- Unibet
+  Atlético Madrid - 2.15
+  Mallorca - 3.65
+  Draw - 3.35
+- LiveScore Bet (EU)
+  Atlético Madrid - 1.98
+  Mallorca - 3.35
+  Draw - 3.1
+- Coolbet
+  Atlético Madrid - 2.2
+  Mallorca - 3.5
+  Draw - 3.25
+
+-----------------------------------------------
+ID: c7ca633328ca3f32f87852f156955a3a
+Inicio: 2024-05-05T12:00:00Z
+Equipo Local: CA Osasuna
+Equipo Visitante: Real Betis
+Cuotas:
+- Pinnacle
+  CA Osasuna - 2.68
+  Real Betis - 2.69
+  Draw - 3.22
+- 888sport
+  CA Osasuna - 2.75
+  Real Betis - 2.62
+  Draw - 3.2
+- Betclic
+  CA Osasuna - 2.67
+  Real Betis - 2.58
+  Draw - 3.15
+- 1xBet
+  CA Osasuna - 2.81
+  Real Betis - 2.78
+  Draw - 3.33
+- Marathon Bet
+  CA Osasuna - 2.73
+  Real Betis - 2.71
+  Draw - 3.25
+- Suprabets
+  CA Osasuna - 2.77
+  Real Betis - 2.78
+  Draw - 3.34
+- Betsson
+  CA Osasuna - 2.75
+  Real Betis - 2.7
+  Draw - 3.3
+- MyBookie.ag
+  CA Osasuna - 2.67
+  Real Betis - 2.58
+  Draw - 3.14
+- William Hill
+  CA Osasuna - 2.7
+  Real Betis - 2.62
+  Draw - 3.2
+- Betfair
+  CA Osasuna - 2.76
+  Real Betis - 2.68
+  Draw - 3.2
+- LiveScore Bet (EU)
+  CA Osasuna - 2.5
+  Real Betis - 2.5
+  Draw - 3.1
+- Unibet
+  CA Osasuna - 2.7
+  Real Betis - 2.7
+  Draw - 3.35
+- Coolbet
+  CA Osasuna - 2.8
+  Real Betis - 2.6
+  Draw - 3.25
+
+-----------------------------------------------
+ID: 02236bfcfabc9b5d6c9edaab441dbc45
+Inicio: 2024-05-05T14:15:00Z
+Equipo Local: Celta Vigo
+Equipo Visitante: Villarreal
+Cuotas:
+- 888sport
+  Celta Vigo - 2.25
+  Villarreal - 3.0
+  Draw - 3.6
+- 1xBet
+  Celta Vigo - 2.36
+  Villarreal - 3.1
+  Draw - 3.7
+- Pinnacle
+  Celta Vigo - 2.27
+  Villarreal - 2.95
+  Draw - 3.61
+- Betclic
+  Celta Vigo - 2.23
+  Villarreal - 2.93
+  Draw - 3.45
+- Marathon Bet
+  Celta Vigo - 2.3
+  Villarreal - 3.02
+  Draw - 3.6
+- Suprabets
+  Celta Vigo - 2.34
+  Villarreal - 3.06
+  Draw - 3.76
+- MyBookie.ag
+  Celta Vigo - 2.23
+  Villarreal - 2.93
+  Draw - 3.46
+- Betsson
+  Celta Vigo - 2.35
+  Villarreal - 3.0
+  Draw - 3.6
+- William Hill
+  Celta Vigo - 2.25
+  Villarreal - 3.0
+  Draw - 3.6
+- Betfair
+  Celta Vigo - 2.26
+  Villarreal - 2.94
+  Draw - 3.6
+- Unibet
+  Celta Vigo - 2.3
+  Villarreal - 3.0
+  Draw - 3.75
+- LiveScore Bet (EU)
+  Celta Vigo - 2.12
+  Villarreal - 2.75
+  Draw - 3.45
+- Coolbet
+  Celta Vigo - 2.35
+  Villarreal - 2.85
+  Draw - 3.65
+
+-----------------------------------------------
+ID: cf562361fe297a70304b1df2092c61c8
+Inicio: 2024-05-05T16:30:00Z
+Equipo Local: Valencia
+Equipo Visitante: Alavés
+Cuotas:
+- Pinnacle
+  Alavés - 4.19
+  Valencia - 2.02
+  Draw - 3.1
+- Unibet
+  Alavés - 4.4
+  Valencia - 1.97
+  Draw - 3.3
+- Betsson
+  Alavés - 4.2
+  Valencia - 2.05
+  Draw - 3.2
+- LiveScore Bet (EU)
+  Alavés - 4.1
+  Valencia - 1.82
+  Draw - 3.05
+- Marathon Bet
+  Alavés - 4.3
+  Valencia - 2.04
+  Draw - 3.14
+- Betclic
+  Alavés - 4.05
+  Valencia - 1.99
+  Draw - 3.03
+- William Hill
+  Alavés - 4.2
+  Valencia - 2.0
+  Draw - 3.1
+
+-----------------------------------------------
+ID: 815ece4e6f2604330736f983af0f590e
+Inicio: 2024-05-05T19:00:00Z
+Equipo Local: Rayo Vallecano
+Equipo Visitante: Almería
+Cuotas:
+- Pinnacle
+  Almería - 5.52
+  Rayo Vallecano - 1.58
+  Draw - 4.06
+- 888sport
+  Almería - 6.0
+  Rayo Vallecano - 1.57
+  Draw - 4.0
+- MyBookie.ag
+  Almería - 5.4
+  Rayo Vallecano - 1.56
+  Draw - 3.95
+- 1xBet
+  Almería - 5.8
+  Rayo Vallecano - 1.64
+  Draw - 4.26
+- Betclic
+  Almería - 5.35
+  Rayo Vallecano - 1.56
+  Draw - 3.93
+- Marathon Bet
+  Almería - 5.65
+  Rayo Vallecano - 1.6
+  Draw - 4.15
+- Betsson
+  Almería - 5.5
+  Rayo Vallecano - 1.6
+  Draw - 4.2
+- Suprabets
+  Almería - 5.9
+  Rayo Vallecano - 1.62
+  Draw - 4.3
+- William Hill
+  Almería - 5.5
+  Rayo Vallecano - 1.57
+  Draw - 4.2
+- Betfair
+  Almería - 5.9
+  Rayo Vallecano - 1.58
+  Draw - 4.0
+- Unibet
+  Almería - 6.0
+  Rayo Vallecano - 1.6
+  Draw - 4.2
+- LiveScore Bet (EU)
+  Almería - 5.5
+  Rayo Vallecano - 1.47
+  Draw - 3.85
+- Coolbet
+  Almería - 5.1
+  Rayo Vallecano - 1.65
+  Draw - 4.05
+
+-----------------------------------------------
+ID: c05f6d7c19dd65b0afdf332b80bed28d
+Inicio: 2024-05-05T19:00:00Z
+Equipo Local: Sevilla
+Equipo Visitante: Granada CF
+Cuotas:
+- Pinnacle
+  Granada CF - 6.03
+  Sevilla - 1.51
+  Draw - 4.29
+- MyBookie.ag
+  Granada CF - 5.7
+  Sevilla - 1.5
+  Draw - 4.2
+- 1xBet
+  Granada CF - 6.52
+  Sevilla - 1.56
+  Draw - 4.51
+- Betclic
+  Granada CF - 5.75
+  Sevilla - 1.5
+  Draw - 4.17
+- Marathon Bet
+  Granada CF - 6.35
+  Sevilla - 1.52
+  Draw - 4.4
+- Betsson
+  Granada CF - 6.0
+  Sevilla - 1.55
+  Draw - 4.33
+- Suprabets
+  Granada CF - 6.4
+  Sevilla - 1.55
+  Draw - 4.6
+- 888sport
+  Granada CF - 6.5
+  Sevilla - 1.5
+  Draw - 4.33
+- William Hill
+  Granada CF - 6.0
+  Sevilla - 1.5
+  Draw - 4.33
+- Betfair
+  Granada CF - 1.05
+  Sevilla - 1.06
+  Draw - 1.01
+- Unibet
+  Granada CF - 6.4
+  Sevilla - 1.51
+  Draw - 4.5
+- LiveScore Bet (EU)
+  Granada CF - 6.0
+  Sevilla - 1.4
+  Draw - 4.2
+- Coolbet
+  Granada CF - 5.5
+  Sevilla - 1.56
+  Draw - 4.4
+

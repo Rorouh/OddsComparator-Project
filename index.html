@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparador de Cuotas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- <div class="loading-screen">
+        <div class="loader"></div>
+    </div> -->
+    <header>
+        <div class="logo">
+            <img src="odds_logo.jpg" id="imagen" alt="Odds Logo">
+        </div>
+    </header>
+    <main>
+        <h1>Comparador de Cuotas</h1>
+        <div class="container">
+            <h2>Selecciona un evento deportivo:</h2>
+            <select id="eventSelect">
+                <option value="football">Fútbol</option>
+                <option value="basketball">Baloncesto</option>
+                <option value="tennis">Tenis</option>
+            </select>
+            <div id="oddsContainer">
+                <!-- Aquí se mostrarán las cuotas -->
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Comparador de Cuotas</p>
+    </footer>
+    <script src="obtener_deportes.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+baseball_mlb
+basketball_nba
+icehockey_nhl
+rugbyleague_nrl
+soccer_epl
+soccer_france_ligue_one
+soccer_france_ligue_two
+soccer_germany_bundesliga
+soccer_germany_bundesliga2
+soccer_italy_serie_a
+soccer_italy_serie_b
+soccer_spain_la_liga
+soccer_spain_segunda_division

@@ -1,0 +1,3 @@
+ssh -i "claves.pem" ec2-user@ec2-184-72-213-158.compute-1.amazonaws.com
+
+mysql -h database-test2.cta44ua6myzs.us-east-1.rds.amazonaws.com -P 3306 -u admin -p

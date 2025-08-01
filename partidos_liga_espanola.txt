@@ -1,0 +1,160 @@
+-----------------------------------------------
+ID: 9f32310b031429e2b85a0804c0081414
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-26T19:00:00Z
+Home Team: Real Sociedad
+Away Team: Real Madrid
+
+-----------------------------------------------
+ID: ce10fe42b1a754902c2016fabb4f44b7
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-27T12:00:00Z
+Home Team: Las Palmas
+Away Team: Girona
+
+-----------------------------------------------
+ID: c8cd89571f65f686b8c6920590b57313
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-27T14:15:00Z
+Home Team: Almería
+Away Team: Getafe
+
+-----------------------------------------------
+ID: 56c2abf5cf84ced4d65ac50542c7ab88
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-27T16:30:00Z
+Home Team: Alavés
+Away Team: Celta Vigo
+
+-----------------------------------------------
+ID: 0cd2862537ac8026060aca5a9cd66eda
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-27T19:00:00Z
+Home Team: Atlético Madrid
+Away Team: Athletic Bilbao
+
+-----------------------------------------------
+ID: 89ec514f37cd50786d6f94b54ca2e16d
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-28T12:00:00Z
+Home Team: Cádiz CF
+Away Team: Mallorca
+
+-----------------------------------------------
+ID: 9916c096f0a8075f3d95a7fb9f4989a6
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-28T14:15:00Z
+Home Team: Granada CF
+Away Team: CA Osasuna
+
+-----------------------------------------------
+ID: 6d393ee6687dbf5040f308f0c4b82dd5
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-28T16:30:00Z
+Home Team: Villarreal
+Away Team: Rayo Vallecano
+
+-----------------------------------------------
+ID: cc379a59603aaa74aabcfb380f307522
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-28T19:00:00Z
+Home Team: Real Betis
+Away Team: Sevilla
+
+-----------------------------------------------
+ID: b2c7e5d5f7213812086ede18d7ed0db2
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-04-29T19:00:00Z
+Home Team: Barcelona
+Away Team: Valencia
+
+-----------------------------------------------
+ID: 2f2e80dc42c1166148f3b71f3e2eda56
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-03T19:00:00Z
+Home Team: Getafe
+Away Team: Athletic Bilbao
+
+-----------------------------------------------
+ID: 60574065ceefb23a78f455db6969cd8f
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-04T12:00:00Z
+Home Team: Real Sociedad
+Away Team: Las Palmas
+
+-----------------------------------------------
+ID: 8c5613140a4514e971a7d487fb53e855
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-04T14:15:00Z
+Home Team: Real Madrid
+Away Team: Cádiz CF
+
+-----------------------------------------------
+ID: 11bde34c58b70249d1ac5f19122634a2
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-04T16:30:00Z
+Home Team: Girona
+Away Team: Barcelona
+
+-----------------------------------------------
+ID: 7fd74413159bfe9ee2463dbc771160b7
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-04T19:00:00Z
+Home Team: Mallorca
+Away Team: Atlético Madrid
+
+-----------------------------------------------
+ID: c7ca633328ca3f32f87852f156955a3a
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-05T12:00:00Z
+Home Team: CA Osasuna
+Away Team: Real Betis
+
+-----------------------------------------------
+ID: 02236bfcfabc9b5d6c9edaab441dbc45
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-05T14:15:00Z
+Home Team: Celta Vigo
+Away Team: Villarreal
+
+-----------------------------------------------
+ID: cf562361fe297a70304b1df2092c61c8
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-05T16:30:00Z
+Home Team: Valencia
+Away Team: Alavés
+
+-----------------------------------------------
+ID: 815ece4e6f2604330736f983af0f590e
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-05T19:00:00Z
+Home Team: Rayo Vallecano
+Away Team: Almería
+
+-----------------------------------------------
+ID: c05f6d7c19dd65b0afdf332b80bed28d
+Sport Key: soccer_spain_la_liga
+Sport Title: La Liga - Spain
+Commence Time: 2024-05-05T19:00:00Z
+Home Team: Sevilla
+Away Team: Granada CF
+
