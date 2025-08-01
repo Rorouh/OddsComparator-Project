@@ -37,7 +37,15 @@ Actualmente el prototipo se centra en **La Liga española**, pero el pipeline a
 ## Arquitectura
 
 ```mermaid
-graph TD;    A[API The‑Odds‑API] -- JSON --> B[Scripts Python];    B -- tablas intermedias --> C[MySQL];    C -- JSON / REST (TODO) --> D[Back‑end Flask];    D -- fetch --> E[Front‑end HTML + JS];    style D stroke-dasharray: 5 5;    classDef todo fill:#fff3cd,stroke:#f0ad4e,color:#8a6d3b;    class D todo;
+graph TD
+    A[API The-Odds-API] -->|JSON| B[Python Scripts]
+    B -->|Tablas intermedias| C[MySQL]
+    C -->|JSON / REST (TODO)| D[Back-end Flask]
+    D -->|fetch| E[Front-end HTML + JS]
+
+    style D stroke-dasharray:5 5
+    classDef todo fill:#fff3cd,stroke:#f0ad4e,color:#8a6d3b
+    class D todo
 ```
 
 | Capa               | Archivo(s) clave                                                    | Función                                                                         |
